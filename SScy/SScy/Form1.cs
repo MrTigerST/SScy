@@ -15,6 +15,7 @@ namespace SScy
         public Form1()
         {
             InitializeComponent();
+            // Ciao
         }
     }
 }
