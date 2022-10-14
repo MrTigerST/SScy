@@ -1,0 +1,10 @@
+C:\Users\bocia\OneDrive\Desktop\DPZGM\SScy\SScy\SScy\bin\Debug\SScy.exe.config
+C:\Users\bocia\OneDrive\Desktop\DPZGM\SScy\SScy\SScy\bin\Debug\SScy.exe
+C:\Users\bocia\OneDrive\Desktop\DPZGM\SScy\SScy\SScy\bin\Debug\SScy.pdb
+C:\Users\bocia\OneDrive\Desktop\DPZGM\SScy\SScy\SScy\obj\Debug\SScy.csproj.AssemblyReference.cache
+C:\Users\bocia\OneDrive\Desktop\DPZGM\SScy\SScy\SScy\obj\Debug\SScy.Form1.resources
+C:\Users\bocia\OneDrive\Desktop\DPZGM\SScy\SScy\SScy\obj\Debug\SScy.Properties.Resources.resources
+C:\Users\bocia\OneDrive\Desktop\DPZGM\SScy\SScy\SScy\obj\Debug\SScy.csproj.GenerateResource.cache
+C:\Users\bocia\OneDrive\Desktop\DPZGM\SScy\SScy\SScy\obj\Debug\SScy.csproj.CoreCompileInputs.cache
+C:\Users\bocia\OneDrive\Desktop\DPZGM\SScy\SScy\SScy\obj\Debug\SScy.exe
+C:\Users\bocia\OneDrive\Desktop\DPZGM\SScy\SScy\SScy\obj\Debug\SScy.pdb
