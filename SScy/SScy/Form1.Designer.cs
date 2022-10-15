@@ -51,13 +51,16 @@
             // 
             // button1
             // 
-            this.button1.Cursor = System.Windows.Forms.Cursors.Cross;
-            this.button1.Location = new System.Drawing.Point(224, 257);
+            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
+            this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button1.Font = new System.Drawing.Font("Swis721 Hv BT", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.Color.White;
+            this.button1.Location = new System.Drawing.Point(227, 242);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(294, 28);
+            this.button1.Size = new System.Drawing.Size(292, 38);
             this.button1.TabIndex = 1;
             this.button1.Text = "RICHIEDI LA CONNESSIONE";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // label2
@@ -89,13 +92,15 @@
             this.id_txbx.Name = "id_txbx";
             this.id_txbx.Size = new System.Drawing.Size(241, 20);
             this.id_txbx.TabIndex = 4;
+            this.id_txbx.TextChanged += new System.EventHandler(this.id_txbx_TextChanged);
             // 
             // codice
             // 
             this.codice.AutoSize = true;
+            this.codice.Cursor = System.Windows.Forms.Cursors.Hand;
             this.codice.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.codice.ForeColor = System.Drawing.Color.Yellow;
-            this.codice.Location = new System.Drawing.Point(303, 366);
+            this.codice.Location = new System.Drawing.Point(303, 321);
             this.codice.Name = "codice";
             this.codice.Size = new System.Drawing.Size(138, 24);
             this.codice.TabIndex = 5;
@@ -115,6 +120,7 @@
             // 
             // comboBox1
             // 
+            this.comboBox1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {

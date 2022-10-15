@@ -32,6 +32,14 @@ namespace SScy
         private void button1_Click_1(object sender, EventArgs e)
         {
             Convert.ToString(id_txbx.Text);
+            if (id_txbx.Text == "" && comboBox1.Text == "ITALIANO" || comboBox1.Text == "")
+            {
+                MessageBox.Show("Inserisci un codice per fare la richiesta!");
+            }
+            else
+            {
+                MessageBox.Show("Enter a code to make the request!");
+            }
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -51,12 +59,16 @@ namespace SScy
             Clipboard.SetText(codice.Text);
             if (comboBox1.Text == "ENGLISH")
             {
-                MessageBox.Show("Code copied");
+                MessageBox.Show("Code copied in the clipboard");
             }
             else
             {
-                MessageBox.Show("Codice Copiato");
+                MessageBox.Show("Codice copiato negli appunti");
             }
+        }
+
+        private void id_txbx_TextChanged(object sender, EventArgs e)
+        {
         }
     }
 }
