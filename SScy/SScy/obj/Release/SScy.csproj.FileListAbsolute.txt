@@ -1,0 +1,9 @@
+C:\Users\franc\Documents\GitHub\SScy\SScy\SScy\bin\Release\SScy.exe.config
+C:\Users\franc\Documents\GitHub\SScy\SScy\SScy\bin\Release\SScy.exe
+C:\Users\franc\Documents\GitHub\SScy\SScy\SScy\bin\Release\SScy.pdb
+C:\Users\franc\Documents\GitHub\SScy\SScy\SScy\obj\Release\SScy.Form1.resources
+C:\Users\franc\Documents\GitHub\SScy\SScy\SScy\obj\Release\SScy.Properties.Resources.resources
+C:\Users\franc\Documents\GitHub\SScy\SScy\SScy\obj\Release\SScy.csproj.GenerateResource.cache
+C:\Users\franc\Documents\GitHub\SScy\SScy\SScy\obj\Release\SScy.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\GitHub\SScy\SScy\SScy\obj\Release\SScy.exe
+C:\Users\franc\Documents\GitHub\SScy\SScy\SScy\obj\Release\SScy.pdb

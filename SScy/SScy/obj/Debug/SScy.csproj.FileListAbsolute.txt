@@ -8,3 +8,13 @@ C:\Users\bocia\OneDrive\Desktop\DPZGM\SScy\SScy\SScy\obj\Debug\SScy.csproj.Gener
 C:\Users\bocia\OneDrive\Desktop\DPZGM\SScy\SScy\SScy\obj\Debug\SScy.csproj.CoreCompileInputs.cache
 C:\Users\bocia\OneDrive\Desktop\DPZGM\SScy\SScy\SScy\obj\Debug\SScy.exe
 C:\Users\bocia\OneDrive\Desktop\DPZGM\SScy\SScy\SScy\obj\Debug\SScy.pdb
+C:\Users\franc\Documents\GitHub\SScy\SScy\SScy\bin\Debug\SScy.exe.config
+C:\Users\franc\Documents\GitHub\SScy\SScy\SScy\bin\Debug\SScy.exe
+C:\Users\franc\Documents\GitHub\SScy\SScy\SScy\bin\Debug\SScy.pdb
+C:\Users\franc\Documents\GitHub\SScy\SScy\SScy\obj\Debug\SScy.csproj.AssemblyReference.cache
+C:\Users\franc\Documents\GitHub\SScy\SScy\SScy\obj\Debug\SScy.Properties.Resources.resources
+C:\Users\franc\Documents\GitHub\SScy\SScy\SScy\obj\Debug\SScy.csproj.GenerateResource.cache
+C:\Users\franc\Documents\GitHub\SScy\SScy\SScy\obj\Debug\SScy.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\GitHub\SScy\SScy\SScy\obj\Debug\SScy.exe
+C:\Users\franc\Documents\GitHub\SScy\SScy\SScy\obj\Debug\SScy.pdb
+C:\Users\franc\Documents\GitHub\SScy\SScy\SScy\obj\Debug\SScy.MenuSScy.resources
