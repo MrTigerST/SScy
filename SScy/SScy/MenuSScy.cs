@@ -22,7 +22,7 @@ namespace SScy
         }
 
         public static int code = 0;
-        private static string language = "en";
+        public static string language = "en";
         private static bool blockloop1 = false;
 
         private void Form1_Load(object sender, EventArgs e)
